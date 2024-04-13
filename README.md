@@ -1,4 +1,18 @@
-# Intro
-its me Kareem a.k.a iiTzVein, an 18 yo student from Morocco, and I love coding
-visit Project Evolve now : 
-https://discord.gg/SbaSw4SV7d
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+# Evolve | Founder ![rating](https://img.shields.io/badge/rating-★★★★★-brightgreen)
+Providing high quality RP
+
+
+
+
+# About Me
+- 🔭 currently manage - Evolve RP. and studying at De Anza College in Cupertino, California.
+- 📫 How to reach me: DM at iitzveinxd (Discord)
+
+[![GitHub](https://github-readme-streak-stats.herokuapp.com?user=VeinDevTtv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=tokyonight)
